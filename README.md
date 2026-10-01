@@ -32,7 +32,7 @@ I'm currently expanding from **model development into end-to-end AI engineering*
 
 Currently working with:
 
-`FastAPI` · `Docker` · `PyTorch` · `OpenCV` · `LLMs` · `RAG` · `Vector Databases` · `Cloud Deployment`
+`FastAPI` · `Docker` · `Tensorflow` · `OpenCV` · `LLMs`
 
 ---
 
@@ -100,18 +100,6 @@ More projects and experiments are available in my repositories.
 <a href="https://flask.palletsprojects.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="Flask"/>
 </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Punyam22&show_icons=true&theme=tokyonight&hide_border=true" alt="Punyam's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Punyam22&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
