@@ -1,121 +1,253 @@
-<h1 align="center">Hi 👋, I'm Punyam Gupta</h1>
+<!--
+  TYPE SYSTEM — Google Fonts rendered as SVG images (GitHub strips <style>/<link>).
+  Orbitron 700 ......... name + section headers
+  JetBrains Mono 500 ... card titles + supporting text
 
-<h3 align="center">AI Engineer | Machine Learning | Computer Vision | AI Applications</h3>
+  COLOR ROLES
+  #22D3EE cyan ... headers / links
+  #34D399 mint ... status ("Freelancer · Remote-Ready")
+  #818CF8 indigo . supporting text
+  #E2E8F0 slate .. card titles
+  #0F172A navy ... badge fills
 
-<p align="center">
-  <a href="https://github.com/Punyam22">
-    <img src="https://komarev.com/ghpvc/?username=Punyam22&label=Profile%20Views&color=0e75b6&style=flat" alt="Punyam22" />
-  </a>
-</p>
+  LOCAL ASSETS (repo root)
+  hero-terminal.gif · neural-net.gif · divider.gif · footer-terminal.gif
+-->
 
----
+<div align="center">
 
-### 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=1&pause=99999&color=22D3EE&center=true&vCenter=true&width=700&height=70&lines=Punyam+Gupta" alt="Punyam Gupta"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=99999&color=818CF8&center=true&vCenter=true&width=700&height=34&lines=AI+Engineer+%C2%B7+Machine+Learning+%C2%B7+Computer+Vision+%C2%B7+AI+Applications" alt="AI Engineer · Machine Learning · Computer Vision · AI Applications"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=1&pause=99999&color=34D399&center=true&vCenter=true&width=700&height=30&lines=Freelancer+%C2%B7+Remote-Ready" alt="Freelancer · Remote-Ready"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Punyam22/Punyam22/main/hero-terminal.gif" width="760" alt="Terminal introducing Punyam Gupta, AI Engineer"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/punyam-gupta/"><img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=flat-square&labelColor=0F172A&color=0F172A&logo=linkedin&logoColor=22D3EE" height="28" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:punyam252004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F172A?style=flat-square&labelColor=0F172A&color=0F172A&logo=gmail&logoColor=22D3EE" height="28" alt="Email"/></a>&nbsp;
+<a href="https://github.com/Punyam22?tab=repositories"><img src="https://img.shields.io/badge/REPOS-0F172A?style=flat-square&labelColor=0F172A&color=0F172A&logo=github&logoColor=22D3EE" height="28" alt="Repositories"/></a>
+
+<br/><br/>
+
+<a href="https://github.com/Punyam22">
+  <img src="https://komarev.com/ghpvc/?username=Punyam22&label=Profile%20Views&color=0F172A&labelColor=0F172A&style=flat-square" alt="Profile views" />
+</a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Punyam22/Punyam22/main/divider.gif" width="100%" alt=""/>
+
+<br/>
+
+<!-- ═════════════════════ 01 — ABOUT ═════════════════════ -->
+
+<h2>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999&color=22D3EE&center=false&vCenter=true&width=460&height=44&lines=01.+About+Me" alt="01. About Me"/>
+</h2>
+
+<table width="100%">
+<tr>
+<td width="520" valign="top">
 
 I'm a B.Tech Information Technology student focused on **AI Engineering** and building practical AI applications.
 
-My interests currently span:
+I'm expanding from **model development into end-to-end AI engineering**: building, deploying, and integrating AI models into usable applications.
 
-* 🤖 Machine Learning & Deep Learning
-* 👁️ Computer Vision
-* 🧠 NLP & Large Language Models
-* ⚙️ AI Application Development
-* 🚀 Model Deployment & AI Engineering
+**Interests**
 
-I'm currently expanding from **model development into end-to-end AI engineering** — building, deploying, and integrating AI models into usable applications.
+- 🤖 Machine Learning & Deep Learning
+- 👁️ Computer Vision
+- 🧠 NLP & Large Language Models
+- ⚙️ AI Application Development
+- 🚀 Model Deployment & AI Engineering
 
----
+**Currently learning:** `FastAPI` · `Docker` · `TensorFlow` · `OpenCV` · `LLMs`
 
-### 🌱 Currently Learning
+</td>
+<td width="360" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/Punyam22/Punyam22/main/neural-net.gif" width="340" alt="Animated neural network"/>
+</td>
+</tr>
+</table>
 
-**AI Engineering**
+<img src="https://raw.githubusercontent.com/Punyam22/Punyam22/main/divider.gif" width="100%" alt=""/>
 
-Currently working with:
+<br/>
 
-`FastAPI` · `Docker` · `Tensorflow` · `OpenCV` · `LLMs`
+<!-- ═════════════════════ 02 — FEATURED PROJECTS ═════════════════════ -->
 
----
+<h2>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999&color=22D3EE&center=false&vCenter=true&width=520&height=44&lines=02.+Featured+Projects" alt="02. Featured Projects"/>
+</h2>
 
-### 🔭 Featured Projects
+<table width="100%">
+<tr>
+<td width="440" valign="top">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1&pause=99999&color=818CF8&center=false&vCenter=true&width=400&height=24&lines=Computer+Vision+%C2%B7+Security" alt="Computer Vision · Security"/>
+<h3>🕵️ Deepfake Detection System</h3>
+Deepfake image detection using ConvNeXt + SRM frequency analysis.
+<br/><br/>
+<code>ConvNeXt</code> <code>SRM</code>
+<br/><br/>
+<a href="https://github.com/Punyam22/Deepfake-Detection-System"><b>→ repository</b></a>
+</td>
+<td width="440" valign="top">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1&pause=99999&color=818CF8&center=false&vCenter=true&width=400&height=24&lines=Computer+Vision+%C2%B7+Accessibility" alt="Computer Vision · Accessibility"/>
+<h3>🤟 Sign Language Detection</h3>
+Computer vision system for recognizing sign language.
+<br/><br/>
+<a href="https://github.com/Punyam22/Sign-Language-Recognition"><b>→ repository</b></a>
+</td>
+</tr>
+<tr><td colspan="2" height="14"></td></tr>
+<tr>
+<td width="440" valign="top">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1&pause=99999&color=818CF8&center=false&vCenter=true&width=400&height=24&lines=NLP+%C2%B7+Classification" alt="NLP · Classification"/>
+<h3>📰 Fake News Detection</h3>
+NLP-based classification system for detecting potentially misleading news.
+<br/><br/>
+<a href="https://github.com/Punyam22/Fake-news-detection"><b>→ repository</b></a>
+</td>
+<td width="440" valign="top">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1&pause=99999&color=818CF8&center=false&vCenter=true&width=400&height=24&lines=NLP+%C2%B7+Text+Classification" alt="NLP · Text Classification"/>
+<h3>😊 Emotion Detection</h3>
+Text classification into Positive, Neutral, and Negative emotions.
+<br/><br/>
+<a href="https://github.com/Punyam22/Emotion-Detection-in-Text"><b>→ repository</b></a>
+</td>
+</tr>
+</table>
 
-| Project                           | Description                                                               |
-| --------------------------------- | ------------------------------------------------------------------------- |
-| 🕵️ **Deepfake Detection System** | Deepfake image detection using ConvNeXt + SRM frequency analysis          |
-| 🤟 **Sign Language Detection**    | Computer vision system for recognizing sign language                      |
-| 📰 **Fake News Detection**        | NLP-based classification system for detecting potentially misleading news |
-| 😊 **Emotion Detection**          | Text classification into Positive, Neutral, and Negative emotions         |
+<sub>More projects and experiments are available in my <a href="https://github.com/Punyam22?tab=repositories"><b>repositories</b></a>.</sub>
 
-More projects and experiments are available in my repositories.
+<br/><br/>
 
----
+<img src="https://raw.githubusercontent.com/Punyam22/Punyam22/main/divider.gif" width="100%" alt=""/>
 
-### 🛠️ Languages & Tools
+<br/>
 
-#### Programming
+<!-- ═════════════════════ 03 — EXPERIENCE ═════════════════════ -->
 
-<p align="left">
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-</a>
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-</a>
-</p>
+<h2>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999&color=22D3EE&center=false&vCenter=true&width=460&height=44&lines=03.+Experience" alt="03. Experience"/>
+</h2>
 
-#### Machine Learning & AI
+<table width="100%">
+<tr>
+<td width="170" align="center" valign="middle">
+<img src="https://img.shields.io/badge/MAY_–_JUL_2025-0F172A?style=flat-square&labelColor=0F172A&color=0F172A" alt="May – Jul 2025"/>
+</td>
+<td width="710" valign="middle">
+<b>Summer Intern</b> · In Time Tec<br/>
+<sub>Internship</sub>
+</td>
+</tr>
+</table>
 
-<p align="left">
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
-</a>
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-Learn"/>
-</a>
-<a href="https://opencv.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-</a>
-</p>
+<br/>
 
-#### AI Engineering & Development
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=99999&color=E2E8F0&center=false&vCenter=true&width=420&height=30&lines=Certifications" alt="Certifications"/>
 
-<p align="left">
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
-</a>
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="Flask"/>
-</a>
-</p>
+<table width="100%">
+<tr>
+<td width="60" align="center" valign="middle">🐍</td>
+<td width="380" valign="middle">
+<b>Python 101 for Data Science</b><br/><sub>IBM · Issued Jul 2024</sub>
+</td>
+<td width="60" align="center" valign="middle">📈</td>
+<td width="380" valign="middle">
+<b>Data Analysis with Python</b><br/><sub>IBM · Issued Jan 2025</sub>
+</td>
+</tr>
+<tr><td colspan="4" height="16"></td></tr>
+<tr>
+<td width="60" align="center" valign="middle">📊</td>
+<td width="380" valign="middle">
+<b>Data Visualization with Python</b><br/><sub>IBM · Issued Feb 2025</sub>
+</td>
+<td width="60" align="center" valign="middle">⚙️</td>
+<td width="380" valign="middle">
+<b>Mastering C++</b><br/><sub>Udemy · Issued Jul 2024</sub>
+</td>
+</tr>
+<tr><td colspan="4" height="16"></td></tr>
+<tr>
+<td width="60" align="center" valign="middle">🔷</td>
+<td width="380" valign="middle">
+<b>Foundational C# with Microsoft</b><br/><sub>Microsoft · Issued Jul 2024</sub>
+</td>
+<td width="60" align="center" valign="middle">☕</td>
+<td width="380" valign="middle">
+<b>Data Structures and Algorithms in Java</b><br/><sub>NPTEL · Issued Dec 2023</sub>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-### 🤝 Connect With Me
+<img src="https://raw.githubusercontent.com/Punyam22/Punyam22/main/divider.gif" width="100%" alt=""/>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/punyam-gupta/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-</a>
-</p>
+<br/>
 
-📫 **Email:** `punyam252004@gmail.com`
+<!-- ═════════════════════ 04 — TECH STACK ═════════════════════ -->
 
----
+<h2>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=1&pause=99999&color=22D3EE&center=false&vCenter=true&width=460&height=44&lines=04.+Tech+Stack" alt="04. Tech Stack"/>
+</h2>
 
-<p align="center">
-  <i>Building AI systems, one project at a time.</i>
-</p>
+<table width="100%">
+<tr>
+<td width="220" valign="middle">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=1&pause=99999&color=818CF8&center=false&vCenter=true&width=200&height=26&lines=Programming" alt="Programming"/>
+</td>
+<td width="660" valign="middle">
+<img src="https://skillicons.dev/icons?i=py,cpp,mysql&theme=dark&perline=8" height="52" alt="Python, C++, MySQL"/>
+</td>
+</tr>
+<tr><td colspan="2" height="12"></td></tr>
+<tr>
+<td width="220" valign="middle">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=1&pause=99999&color=818CF8&center=false&vCenter=true&width=200&height=26&lines=Machine+Learning+%26+AI" alt="Machine Learning & AI"/>
+</td>
+<td width="660" valign="middle">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,pandas&theme=dark&perline=8" height="52" alt="PyTorch, TensorFlow, Scikit-Learn, OpenCV, Pandas"/>
+</td>
+</tr>
+<tr><td colspan="2" height="12"></td></tr>
+<tr>
+<td width="220" valign="middle">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=1&pause=99999&color=818CF8&center=false&vCenter=true&width=200&height=26&lines=AI+Engineering" alt="AI Engineering"/>
+</td>
+<td width="660" valign="middle">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git&theme=dark&perline=8" height="52" alt="FastAPI, Flask, Docker, Git"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Punyam22/Punyam22/main/divider.gif" width="100%" alt=""/>
+
+<br/>
+
+<!-- ═════════════════════ SIGN-OFF ═════════════════════ -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Punyam22/Punyam22/main/footer-terminal.gif" width="800" alt="Contact card: email, LinkedIn and GitHub"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/punyam-gupta/"><img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=flat-square&labelColor=0F172A&color=0F172A&logo=linkedin&logoColor=22D3EE" height="28" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:punyam252004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F172A?style=flat-square&labelColor=0F172A&color=0F172A&logo=gmail&logoColor=22D3EE" height="28" alt="Email"/></a>
+
+<br/><br/>
+
+<i>Building AI systems, one project at a time.</i>
+
+</div>
