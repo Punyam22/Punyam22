@@ -52,7 +52,7 @@
 
 <table width="100%">
 <tr>
-<td width="520" valign="top">
+<td width="440" valign="top">
 
 I'm a B.Tech Information Technology student focused on **AI Engineering** and building practical AI applications.
 
@@ -69,8 +69,8 @@ I'm expanding from **model development into end-to-end AI engineering**: buildin
 **Currently learning:** `FastAPI` · `Docker` · `TensorFlow` · `OpenCV` · `LLMs`
 
 </td>
-<td width="360" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/Punyam22/Punyam22/main/neural-net.gif" width="340" alt="Animated neural network"/>
+<td width="440" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/Punyam22/Punyam22/main/about-ascii.gif" width="420" alt="ASCII vision lens decoding in a terminal"/>
 </td>
 </tr>
 </table>
